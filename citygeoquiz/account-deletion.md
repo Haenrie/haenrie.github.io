@@ -7,7 +7,7 @@ permalink: /citygeoquiz/account-deletion/
 # Delete your StadtGeo account
 
 **Operator:** Henry Breuer
-**Deletion support:** citygeo.quiz@gmail.com
+**Deletion support:** haenrie.studio@gmail.com
 
 
 ## Deutsch
@@ -27,7 +27,7 @@ die App-Daten in den Geräteeinstellungen oder deinstallieren Sie die App.
 
 ### Wenn Sie die App nicht verwenden können
 
-Sie können eine Löschanfrage an citygeo.quiz@gmail.com senden. Verwenden Sie den
+Sie können eine Löschanfrage an haenrie.studio@gmail.com senden. Verwenden Sie den
 Betreff **„StadtGeo – Kontolöschung“** und nennen Sie nur die Informationen,
 die wir zur Zuordnung benötigen, etwa den Anzeigenamen und den ungefähren
 Zeitpunkt der Kontoerstellung. Bei einem mit Google verknüpften Konto senden
@@ -57,7 +57,7 @@ clear the app's data in device settings or uninstall the app.
 
 ### If you cannot use the app
 
-Email citygeo.quiz@gmail.com with the subject **“StadtGeo – account deletion”**.
+Email haenrie.studio@gmail.com with the subject **“StadtGeo – account deletion”**.
 Provide only information needed to locate the account, such as the display
 name and approximate account-creation time. For a Google-linked account, email
 from the linked address where possible. Do not send identity documents,

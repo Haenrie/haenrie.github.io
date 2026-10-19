@@ -8,7 +8,7 @@ permalink: /citygeoquiz/privacy/
 
 **Effective date:** 2026-10-18
 **Controller:** Henry Breuer, Leonrodstraße 31, 80636 München, Deutschland
-**Privacy contact:** citygeo.quiz@gmail.com
+**Privacy contact:** haenrie.studio@gmail.com
 
 
 ## Deutsch
@@ -18,7 +18,7 @@ permalink: /citygeoquiz/privacy/
 Diese Datenschutzerklärung gilt für die mobile App **StadtGeo** und ihre
 Online-Funktionen. Verantwortlich ist Henry Breuer unter der oben
 genannten Anschrift. Fragen zum Datenschutz und Anfragen zu Ihren Rechten
-richten Sie bitte an citygeo.quiz@gmail.com.
+richten Sie bitte an haenrie.studio@gmail.com.
 
 Die App bleibt ohne Online-Funktionen spielbar. Sobald Online-Funktionen
 verwendet werden, kann die App ein anonymes Spielkonto anlegen und
@@ -87,7 +87,7 @@ Sie können nach Maßgabe der DSGVO Auskunft, Berichtigung, Löschung,
 Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch verlangen
 sowie eine erteilte Einwilligung mit Wirkung für die Zukunft widerrufen. Sie
 haben außerdem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu
-beschweren. Bitte senden Sie Anfragen an citygeo.quiz@gmail.com; wir können einen
+beschweren. Bitte senden Sie Anfragen an haenrie.studio@gmail.com; wir können einen
 angemessenen Nachweis verlangen, dass Sie das betreffende Konto kontrollieren.
 
 ### 8. Sicherheit und Änderungen
@@ -103,7 +103,7 @@ wir die neue Fassung mit einem aktualisierten Datum.
 
 This policy applies to the **StadtGeo** mobile app and its online features.
 Henry Breuer, Leonrodstraße 31, 80636 München, Deutschland, is the
-controller. Contact citygeo.quiz@gmail.com for privacy questions or requests
+controller. Contact haenrie.studio@gmail.com for privacy questions or requests
 to exercise your rights.
 
 The game remains playable without online features. When online features are
@@ -165,7 +165,7 @@ stored locally on the device. See [Account deletion](account-deletion.md).
 Subject to the GDPR, you may request access, rectification, erasure,
 restriction, portability or objection, and withdraw consent for the future.
 You may also complain to a data-protection supervisory authority. Contact
-citygeo.quiz@gmail.com; we may request reasonable evidence that you control the
+haenrie.studio@gmail.com; we may request reasonable evidence that you control the
 relevant account.
 
 ### 8. Security and changes

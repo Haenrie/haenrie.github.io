@@ -11,4 +11,4 @@ Angaben gemäß § 5 DDG
 Henry Breuer
 Leonrodstraße 31, 80636 München, Deutschland
 
-Kontakt: citygeo.quiz@gmail.com
+Kontakt: haenrie.studio@gmail.com

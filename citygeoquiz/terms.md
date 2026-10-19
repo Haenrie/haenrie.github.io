@@ -8,7 +8,7 @@ permalink: /citygeoquiz/terms/
 
 **Effective date:** 2026-10-18
 **Operator:** Henry Breuer, Leonrodstraße 31, 80636 München, Deutschland
-**Support:** citygeo.quiz@gmail.com
+**Support:** haenrie.studio@gmail.com
 
 
 ## Deutsch
@@ -39,7 +39,7 @@ gegen eine konservative Sperrliste und manuell nach Meldungen.
 Drei Meldungen durch verschiedene Konten blenden einen gewählten Namen bis zur
 Prüfung aus. Danach kann Henry Breuer den Namen bestätigen,
 wiederherstellen oder zurücksetzen. Ein zurückgesetzter Name kann erneut
-gewählt werden; Einsprüche sind an citygeo.quiz@gmail.com zu richten. Aus einem
+gewählt werden; Einsprüche sind an haenrie.studio@gmail.com zu richten. Aus einem
 automatisch erzeugten Namen, einer Meldung oder einer Moderationsentscheidung
 folgt kein Anspruch auf einen bestimmten Namen.
 
@@ -70,7 +70,7 @@ Die gesetzliche Haftung von Henry Breuer bleibt unberührt. Ergänzen Sie
 vor Veröffentlichung eine nach deutschem Recht rechtlich geprüfte
 Haftungsregelung, Kündigungsregelung und einen Gerichtsstand, soweit zulässig.
 Bei wesentlichen Änderungen informieren wir in der App oder auf dieser Seite.
-Kontakt: citygeo.quiz@gmail.com.
+Kontakt: haenrie.studio@gmail.com.
 
 ## English
 
@@ -97,7 +97,7 @@ a conservative automated blocklist and review reports manually.
 
 Three reports from different accounts hide a chosen name pending review.
 Henry Breuer may then confirm, restore or reset it. A reset name can be
-chosen again; appeals may be sent to citygeo.quiz@gmail.com. A generated name,
+chosen again; appeals may be sent to haenrie.studio@gmail.com. A generated name,
 a report or a moderation decision does not entitle anyone to a particular
 display name.
 
@@ -127,4 +127,4 @@ Mandatory law governing the liability of Henry Breuer remains
 unaffected. Before publication, add a legally reviewed liability clause,
 termination clause and, where lawful, venue under German law. We will
 announce material changes in the app or on this page. Contact:
-citygeo.quiz@gmail.com.
+haenrie.studio@gmail.com.
